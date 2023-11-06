@@ -4,6 +4,7 @@ API testing with the help of CURL (GET and POST request)
 #!/bin/bash
 #API end piont
 GET_URL="https://newsapi.org/v2/everything?q=tesla&from=2023-11-04to=2023-11-05&sortBy=publishedAt&apiKey=e782b949696948f28fca32a65958eb78"
+
 POST_URL="https://newsapi.org/v2/everything?q=tesla&from=2023-11-04to=2023-11-04&sortBy=publishedAt&apiKey=e782b949696948f28fca32a65958eb78"
 curl -X GET $GET_URL -o GET_RESP.txt
 echo "GET Response:"

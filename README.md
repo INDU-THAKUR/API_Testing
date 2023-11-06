@@ -1,6 +1,7 @@
 # API_Testing
 API testing with the help of CURL (GET and POST request) 
-#
+
+# Script
 #!/bin/bash
 #API end piont
 GET_URL="https://newsapi.org/v2/everything?q=tesla&from=2023-11-04to=2023-11-05&sortBy=publishedAt&apiKey=e782b949696948f28fca32a65958eb78"

@@ -12,8 +12,11 @@ API testing with the help of CURL (GET and POST request)
 #!/bin/bash
 ## API end piont
 
+<<<<<<< HEAD
 >>>>>>> a7ceca5f932ff93fdb9089bac6985a4dd69b4a71
 
+=======
+>>>>>>> main
 # Script
 #!/bin/bash
 # API end piont

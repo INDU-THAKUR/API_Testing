@@ -11,7 +11,9 @@ POST_URL="https://newsapi.org/v2/everything?q=tesla&from=2023-11-04to=2023-11-04
 
 ## Make GET request and save response in GET_RESP.txt file
 curl -X GET $GET_URL -o GET_RESP.txt
+
 echo "GET Response:"
+
 cat GET_RESP.txt $/n
 ## Make POST request and save response in POST_RESP
 

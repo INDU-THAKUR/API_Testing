@@ -1,12 +1,9 @@
 # API_Testing
 API testing with the help of CURL (GET and POST request) 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Script 
 #!/bin/bash
 ## API end piont
-=======
-=======
 
 # Script 
 #!/bin/bash

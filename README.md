@@ -18,5 +18,7 @@ cat GET_RESP.txt $/n
 ## Make POST request and save response in POST_RESP
 
 RESP=$(curl -X POST -H "Content type:Application/json" -d '{"name": "abc", "email":"abc@gmail.com"}' $POST_URL -o POST_RESP.txt)
+
 echo "POST Response:"
+
 cat POST_RESP.txt

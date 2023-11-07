@@ -3,7 +3,6 @@ API testing with the help of CURL (GET and POST request)
 
 # Script 
 #!/bin/bash
-## API end piont
 
 ## API end piont
 

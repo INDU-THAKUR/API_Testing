@@ -30,4 +30,5 @@ RESP=$(curl -X POST -H "Content type:Application/json" -d '{"name": "abc", "emai
 echo "POST Response:"
 
 cat POST_RESP.txt
+
 #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
